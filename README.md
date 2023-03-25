@@ -8,10 +8,10 @@ I mainly bug fix for people and their creations, I am also a reverse engineer, a
 ### What have I contributed to?
 I have contributed to small projects, and have created many discord bot's or really big projects like Manifest Destiny Roleplay. Here is a small list of projects I've contributed/Worked on:
 
-Manifest Destiny - A RedM text based server based on the 1800s.
-Southland Roleplay - An AltV text based server for grand theft auto 5.
-nature_server - A Fortnite Gameserver (private repo)
-Fosscord - A Discord Server Reimplementation in NodeJS (I only helped find bugs & gave recommendations on how to fix them!)
+<a href="https://forum.md-rp.com/">MD-RP</a> - A RedM text based server based on the 1800s.<br>
+<a href="https://forum.sol-rp.com/">Soutland</a> - An AltV text based server for grand theft auto 5.<br>
+nature_server - A Fortnite Gameserver (private repo)<br>
+<a href="https://fosscord.com/">Fosscord</a> - A Discord Server Reimplementation in NodeJS (I only helped find bugs & gave recommendations on how to fix them!)<br>
 
 <!--
 **parpzuhils/parpzuhils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
