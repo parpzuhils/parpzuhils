@@ -9,7 +9,7 @@ I mainly bug fix for people and their creations, I am also a reverse engineer, a
 I have contributed to small projects, and have created many discord bot's or really big projects like Manifest Destiny Roleplay. Here is a small list of projects I've contributed/Worked on:
 
 <a href="https://forum.md-rp.com/">MD-RP</a> - A RedM text based server based on the 1800s.<br>
-<a href="https://forum.sol-rp.com/">Soutland</a> - An AltV text based server for grand theft auto 5.<br>
+<a href="https://forum.sol-rp.com/">Southland</a> - An AltV text based server for grand theft auto 5.<br>
 <a href="https://fosscord.com/">Fosscord</a> - A Discord Server Reimplementation in NodeJS (I only helped find bugs & gave recommendations on how to fix them!)<br>
 I have contributed on many other projects, but most have shutdown and I cant be bothered to link them all.<br>
 
